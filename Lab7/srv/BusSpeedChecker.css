@@ -1,0 +1,41 @@
+/*
+SE2840 Winter 2021 - Lab 7 - MongoDB Bus Speed Checker
+Name: Stuart Harley
+Class Section: 021
+*/
+* {
+    margin: 5px;
+}
+
+#map {
+    height: 500px;
+    width: 1000px;
+}
+
+body {
+    width: 1000px;
+}
+
+#tablediv {
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+th {
+    position: sticky;
+    top: 0;
+}
+
+#messages {
+    height: 50px;
+    width: 1000px;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 14px;
+}
+
+#speed {
+    width: 845px;
+}
