@@ -1,0 +1,61 @@
+/*
+SE2840 Winter 2021 - Lab 3 JS Coin Flipper DOM
+Name: Stuart Harley
+Class Section: 021
+*/
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive;
+    color: black;
+    margin: 10px;
+}
+
+input {
+    width: 10%;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+label {
+    margin: 10px;
+}
+
+button {
+    width: 15%;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#numCoinsError {
+    color: red;
+}
+
+#numFlipsError {
+    color: red;
+}
+
+table {
+    width: 95%;
+    margin: 10px;
+    visibility: hidden;
+}
+
+td {
+    border-style: solid;
+    border-radius: 25px;
+    text-align: center;
+    width: 5%;
+    background-color: white;
+}
+
+progress {
+    width: 100%;
+}
+
+#elapsedTime {
+    visibility: hidden;
+}
