@@ -1,0 +1,78 @@
+/* Author: Stuart Harley
+Lab 1: Web Page - HTML and CSS
+SE 2840/021 */
+
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+.text {
+    font-family: "Comic Sans MS", cursive;
+    color: crimson;
+}
+
+table {
+    width: 85%;
+    margin: auto;
+    border-style: double;
+    border-color: black;
+}
+
+th {
+    background-color: black;
+    color: white;
+    width: 18%;
+}
+
+td {
+    background-color: white;
+    border-style: solid;
+    width: 18%;
+}
+
+.time {
+    width: 10%;
+}
+
+.se2840 {
+    border-radius: 25px;
+    border-color: black;
+    background-color: blueviolet;
+    color: yellow;
+}
+
+.cs3300 {
+    border-radius: 25px;
+    border-color: black;
+    background-color: coral;
+    color: greenyellow;
+}
+
+.cs3840 {
+    border-radius: 25px;
+    border-color: black;
+    background-color: gold;
+    color: blue;
+}
+
+.ma388 {
+    border-radius: 25px;
+    border-color: black;
+    background-color: deeppink;
+    color: lawngreen;
+}
+
+.or402 {
+    border-radius: 25px;
+    border-color: black;
+    background-color: lawngreen;
+    color: red;
+}
+
+.free {
+    border-radius: 25px;
+    border-color: black;
+    background-color: tan;
+    color: navy;
+}
