@@ -1,0 +1,14 @@
+/*
+SE2840 Winter 2021 - Lab 6 - Person Tracker Node.js Server
+Name: Stuart Harley
+Class Section: 021
+*/
+
+#map {
+    height: 500px;
+    width: 1000px;
+}
+
+body {
+    width: 1000px;
+}
