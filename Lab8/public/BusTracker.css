@@ -1,0 +1,29 @@
+/*
+SE2840 Winter 2021 - Lab 8 - React Bus Tracker
+Name: Stuart Harley
+Class Section: 021
+*/
+
+* {
+    margin: 5px;
+}
+
+#map {
+    height: 500px;
+    width: 1000px;
+}
+
+#errorLabel {
+    color: red;
+}
+
+#tablediv {
+    height: 350px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+th {
+    position: sticky;
+    top: 0;
+}
