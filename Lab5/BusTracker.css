@@ -1,0 +1,18 @@
+/*
+SE2840 Winter 2021 - Lab 5: Ajax Bus Tracker
+Name: Stuart Harley
+Class Section: 021
+*/
+
+* {
+    margin: 5px;
+}
+
+#map {
+    height: 500px;
+    width: 1000px;
+}
+
+#errorLabel {
+    color: red;
+}
